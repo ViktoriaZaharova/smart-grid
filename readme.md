@@ -1,7 +1,7 @@
 <h1>SmartGrid - Start HTML Template</h1>
 
 <p>
-	<img src="https://goo.gl/images/c78pfR" alt="SmartGrid - Start HTML Template">
+	<img src="https://udemy-images.udemy.com/course/750x422/505208_2307_4.jpg" alt="SmartGrid - Start HTML Template">
 </p>
 
 <p>Author: Viktoria Zaharova |
